@@ -19,5 +19,4 @@ bun dev
 
 ![Imagen de WhatsApp 2023-11-20 a las 11 41 30_f9e89abc](https://github.com/AngigRiv/ExamenParcial01/assets/106000698/134b053f-b0b7-4c7b-9147-4a4bc728be54)
 
-![Imagen de WhatsApp 2023-11-20 a las 11 47 10_5f6a6d73](https://github.com/AngigRiv/ExamenParcial01/assets/106000698/1297abc8-9419-4aec-b1f5-c90b3eb351e9)
-
+![Imagen de WhatsApp 2023-11-20 a las 11 47 10_ccf87e24](https://github.com/AngigRiv/ExamenParcial01/assets/106000698/7fb50ab6-4679-4fea-80fe-74d0ecf0983a)
