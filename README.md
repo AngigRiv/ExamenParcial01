@@ -13,6 +13,13 @@ pnpm dev
 # or
 bun dev
 ```
+<img width="960" alt="image" src="https://github.com/AngigRiv/ExamenParcial01/assets/106000698/a5c40304-2ef8-4d1d-a7d8-b5d77fb40740">
 
-<img width="959" alt="image" src="https://github.com/AngigRiv/ExamenParcial01/assets/106000698/962ca20d-a98a-4bad-8af7-a932db646fb4">
+<img width="960" alt="image" src="https://github.com/AngigRiv/ExamenParcial01/assets/106000698/c795b01c-85a5-436b-b26f-1305358c325b">
+
+<img width="960" alt="image" src="https://github.com/AngigRiv/ExamenParcial01/assets/106000698/523bcf1c-8fca-4a70-831b-8d98cb01b05f">
+
+<img width="960" alt="image" src="https://github.com/AngigRiv/ExamenParcial01/assets/106000698/c27bbed9-27d5-4793-95c8-d83591510abc">
+
+
 
